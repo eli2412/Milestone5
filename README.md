@@ -1,2 +1,1 @@
-# Milestone5
-GCU Milestone 5 CST-150
+System Inventory Project using C# Windows Form
